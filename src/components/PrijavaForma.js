@@ -16,8 +16,8 @@ function PrijavaForma(props) {
 
     return (
         <div className="div_prijavaforma">
-            <h1>Kontaktiraj fakultet</h1>
-            <div className="forma">s
+            <h1 id="kontakt-naslov">Kontaktiraj fakultet</h1>
+            <div className="forma">
                 <div className="elem-forma">
                     <label>EMAIL: </label>
                     <input type="text" className="form-control" value={email} onChange={handleEmail} />

@@ -106,3 +106,19 @@
   margin-top: 10px;
 }
 
+#kontakt-naslov{
+  margin-top:20px;
+}
+
+.prikaz_objava{
+ width: 1700px;
+  padding-left: 180px;
+  flex-wrap: wrap;
+  display:flex;
+  justify-content: space-around;
+}
+
+
+.div_objavekartica{
+  margin-top: 50px;
+}
