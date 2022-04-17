@@ -72,8 +72,8 @@
 }
 
 .card{
-  width: 500px;
-  height: 650px;
+  width: 400px;
+  height: 640px;
 }
 
 .kartice_pocetna{
@@ -95,3 +95,14 @@
 .card-text{
   font-size: 20px;
 }
+
+.forma {
+  width: 650px;
+  margin-top: 50px;
+  margin-left: 640px;
+}
+
+.elem-forma{
+  margin-top: 10px;
+}
+
